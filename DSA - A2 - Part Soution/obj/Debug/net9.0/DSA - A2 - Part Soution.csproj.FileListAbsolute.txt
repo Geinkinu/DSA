@@ -1,0 +1,14 @@
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\bin\Debug\net9.0\DSA - A2 - Part Soution.exe
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\bin\Debug\net9.0\DSA - A2 - Part Soution.deps.json
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\bin\Debug\net9.0\DSA - A2 - Part Soution.runtimeconfig.json
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\bin\Debug\net9.0\DSA - A2 - Part Soution.dll
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\bin\Debug\net9.0\DSA - A2 - Part Soution.pdb
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\obj\Debug\net9.0\DSA - A2 - Part Soution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\obj\Debug\net9.0\DSA - A2 - Part Soution.AssemblyInfoInputs.cache
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\obj\Debug\net9.0\DSA - A2 - Part Soution.AssemblyInfo.cs
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\obj\Debug\net9.0\DSA - A2 - Part Soution.csproj.CoreCompileInputs.cache
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\obj\Debug\net9.0\DSA - A2 - Part Soution.dll
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\obj\Debug\net9.0\refint\DSA - A2 - Part Soution.dll
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\obj\Debug\net9.0\DSA - A2 - Part Soution.pdb
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\obj\Debug\net9.0\DSA - A2 - Part Soution.genruntimeconfig.cache
+C:\Users\kassa\Downloads\OneDrive_2025-04-12\DSA - A2 - Part Soution\DSA - A2 - Part Soution\obj\Debug\net9.0\ref\DSA - A2 - Part Soution.dll
