@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Task 1 - Searching and Sorting Algorithms/1.0.0": {
+        "runtime": {
+          "Task 1 - Searching and Sorting Algorithms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task 1 - Searching and Sorting Algorithms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
